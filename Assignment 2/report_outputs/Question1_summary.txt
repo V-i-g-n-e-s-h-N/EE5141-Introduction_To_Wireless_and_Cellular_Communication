@@ -1,0 +1,17 @@
+Question 1 summary
+Active preamble subcarriers: 60
+Repetition lag in SC estimator: 64 samples
+Maximum unambiguous CFO: +/- 40.00 kHz
+Reported MSE is in Hz^2 before dB conversion.
+SNR_dB,CFO_MSE_Hz2_dB
+0,85.184465
+2,67.088663
+4,63.758525
+6,61.277463
+8,56.793299
+10,48.875901
+12,46.874085
+14,47.641357
+16,44.356654
+18,40.732365
+20,41.236898

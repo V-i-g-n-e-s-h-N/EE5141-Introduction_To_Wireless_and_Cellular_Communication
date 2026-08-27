@@ -1,0 +1,5 @@
+Question 2 summary
+True FFT windows (0-based): [32 2752]
+Detected FFT windows in single-tap case (0-based): [30 2742]
+Detected FFT windows in multipath case (0-based): [42 2760]
+The reported derived timing corresponds to the CP-smoothed plateau center shifted by roughly N_CP/2 toward the FFT boundary.

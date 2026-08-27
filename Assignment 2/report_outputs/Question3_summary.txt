@@ -1,0 +1,3 @@
+Question 3 summary
+Columns in Question3_MSE.csv: SNR_dB, ZF_pilots_dB, Linear_dB, FFT_dB, FFT_tapered_dB, mLS_dB, DelayAware_dB
+Expected high-SNR ordering: Delay-aware LS, then mLS, then FFT-based methods, then linear interpolation.
